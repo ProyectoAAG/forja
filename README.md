@@ -1,13 +1,21 @@
-## FORJA
+<div align="center">
+
+# 🔥 FORJA
 
 **Tu registro de entrenamiento personal — simple, rápido y tuyo.**
 
 Una app de gimnasio hecha con cariño: sin cuentas, sin anuncios, sin nube.
 Todo se guarda en tu propio móvil.
 
+![HTML](https://img.shields.io/badge/HTML-single%20file-orange?style=flat-square)
+![PWA](https://img.shields.io/badge/PWA-instalable-blue?style=flat-square)
+![Sin dependencias](https://img.shields.io/badge/dependencias-cero-green?style=flat-square)
+
+</div>
+
 ---
 
-## Qué hace
+## ✨ Qué hace
 
 FORJA te ayuda a llevar el control de tus entrenamientos sin complicaciones. Abres la app, eliges qué toca hoy, y vas marcando lo que haces. Nada más.
 
@@ -18,13 +26,14 @@ FORJA te ayuda a llevar el control de tus entrenamientos sin complicaciones. Abr
 - **Seguimiento del peso corporal** con gráfica de evolución.
 - **Registro de piscina y spa** (metros, minutos, tipo de sesión).
 - **Añadir entrenos en fechas pasadas**, por si un día se te olvida apuntarlo.
+- **Editor de ejercicios**: añade o quita ejercicios en cada sesión, con opción de restaurar los originales.
 - **Autoguardado** mientras entrenas: si cierras y vuelves, sigue ahí.
 - **Modo claro y oscuro.**
 - **Copia de seguridad** exportable e importable (`.json`).
 
 ---
 
-## Instalación
+## 📲 Instalación
 
 FORJA es una **PWA**: se instala como una app normal, con su icono, y funciona sin conexión.
 
@@ -35,7 +44,7 @@ FORJA es una **PWA**: se instala como una app normal, con su icono, y funciona s
 
 ---
 
-## Tus datos son tuyos
+## 🔒 Tus datos son tuyos
 
 - Todo se guarda **en tu dispositivo** (localStorage). No hay servidor, no hay nube, no se envía nada a ningún sitio.
 - Cada persona que use la app tiene **sus propios datos**, independientes.
@@ -43,7 +52,7 @@ FORJA es una **PWA**: se instala como una app normal, con su icono, y funciona s
 
 ---
 
-## Tecnología
+## 🛠️ Tecnología
 
 - Un solo archivo `index.html` (HTML + CSS + JavaScript, sin frameworks).
 - `manifest.webmanifest` + `sw.js` para el modo app y el funcionamiento sin conexión.
@@ -57,3 +66,8 @@ Proyecto personal hecho por afición. **No sustituye a un entrenador ni a un pro
 
 ---
 
+<div align="center">
+
+Hecho para entrenar mejor. 💪
+
+</div>

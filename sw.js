@@ -2,7 +2,7 @@
    Cachea la app para que funcione sin conexión.
    Cambia CACHE_VERSION cuando actualices la app para forzar la actualización. */
 
-const CACHE_VERSION = "forja-v1";
+const CACHE_VERSION = "forja-v2";
 const ASSETS = [
   "./",
   "./index.html",
